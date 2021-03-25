@@ -16,7 +16,7 @@
 2.ต่อไมโทรคอนโทรเลอร์กับadapter
 
 3.เตรียมโปรแกรมสำหรับอัปโหลด
-
+![](https://user-images.githubusercontent.com/80879956/112445277-882ed400-8d81-11eb-8e58-e3ac7f024a18.jpg)
 4.อัปโหลดและกดปุ่มอัปโหลด
 
 5.รัน pio device monitor

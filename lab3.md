@@ -17,7 +17,7 @@
 1.ต่อUSBและadapterเข้ากับ serial
 
 2.ต่อไมโครคอนโทรเลอร์เข้ากับ adapter
-[](https://user-images.githubusercontent.com/80879956/112444590-cc6da480-8d80-11eb-9a96-8fdefe5496a5.jpg)
+![](https://user-images.githubusercontent.com/80879956/112444590-cc6da480-8d80-11eb-9a96-8fdefe5496a5.jpg)
 3.เตรียมโปรแกรมที่จะอัปโหลด โดยเราเซ็ทให้ port0 เป็น output ส่วนของloopหากเป็นคู่จะแสดง on หากเป็นคี่จะแสดงoff
 
 4.อัปโหลดโปรแกรมเข้าไปในไมโครคอนโทรเลอร์

@@ -12,9 +12,9 @@
 1.ต่อUSBและไมโครคอนโทรเลอร์เข้ากับ serial
 
 2.เตรียมโปรแกรมที่จะอัปโหลดเข้าไปไมโครคอนโทรเลอร์โดยเริ่มจากตั้งชื่อ WiFiและ password หลังจากนั้นกำหนด IP Addressของตัวเอง , gateway เป็นอะไรแล้วก็subnet เป็นยังไง
-
+![](https://user-images.githubusercontent.com/80879956/112445790-186d1900-8d82-11eb-8f57-e10e1adda22e.jpg)
 3.เตรียม Webserver ไว้ 1 ตัวรันคำสั่ง WiFi.softAP แล้วกำหนด ssid กับ password ลงไป
-
+![](https://user-images.githubusercontent.com/80879956/112445801-1acf7300-8d82-11eb-95c3-3629492a6f18.jpg)
 4.อัปโหลดโปรแกรมเข้าไปในไมโครคอนโทรเลอร์
 
 5.กดปุ่ม upload และ reset จากนั้นรันคำสั่ง pio device monitor

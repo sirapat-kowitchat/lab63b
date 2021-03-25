@@ -16,7 +16,7 @@
 3.กดปุ่มบน serial
 
 4.รันคำสั่ง pio device monitor
-5.![](https://user-images.githubusercontent.com/80879956/112443954-199d4680-8d80-11eb-95fb-2c82aaf3d02b.jpg)
+![](https://user-images.githubusercontent.com/80879956/112443954-199d4680-8d80-11eb-95fb-2c82aaf3d02b.jpg)
 ## การบันทึกผลการทดลอง
 เมื่อทำตามขั้นตอนเสร็จสิ้นโปรแกรมจะค้นหาwifiหากรีเซ็ทโปรแกรมจะค้นหาอีกครั้ง
 ## อภิปรายผลการทดลอง

@@ -20,13 +20,13 @@ void loop()
 	} else {
 		digitalWrite(2, HIGH);
 	}
-	delay(100);
+	delay(10);
 }
-  if(val==1) {
+        if(val==1) {
 		digitalWrite(2, HIGH);
 	} else {
 		digitalWrite(2, LOW);
 	}
-	delay(100);
+	delay(1000);
 }
 
